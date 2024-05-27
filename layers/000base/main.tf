@@ -17,7 +17,7 @@ terraform {
     }
   }
     backend "s3" {
-    bucket  = "state-bucket-for-terraform-demo-vyzkrg"
+    bucket  = "state-bucket-for-terraform-demo-XXXXXX"
     key     = "terraform.000base.tfstate"
     region  = "ap-southeast-2"
     encrypt = "true"

@@ -10,7 +10,7 @@ This layer is used to create the Compute resources.
 
 ### Create
 
-Update the `bucket` and `region` fields in the main.tf. (lines 20, 22, 34, and 36)
+Update the `bucket` and `region` fields in the main.tf. (lines 20, 22, 34, 36, 45, and 47)
 
 ```bash
 $ terraform init
