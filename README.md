@@ -4,7 +4,7 @@ This repo will create a 3 layer Demo environment.
 
 ## Basic Architecture
 
-![Design](.github/img/Demo_Environment.png)
+![Design](.github/img/Demo_Env.png)
 
 # Pre-requisite
 
